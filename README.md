@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="ChatGPT Image 6  Juli 2026, 16_20_36" src="https://github.com/user-attachments/assets/84287443-14a3-4cf2-88b3-900c5134e979" />
 # DriveShare
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
